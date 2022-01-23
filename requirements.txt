@@ -1,7 +1,7 @@
 TgCrypto
-git+https://github.com/BrayDanXD/pyrogram.git@session
-py-tgcalls==0.8.2
-yt_dlp
+pyrogram
+py-tgcalls==0.8.1
+yt-dlp==2021.11.10.1
 requests
 aiohttp
 aiofiles
